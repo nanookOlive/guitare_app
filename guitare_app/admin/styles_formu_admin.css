@@ -1,0 +1,41 @@
+body{
+
+    margin:0 0;
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+#formu
+{
+    display:flex;
+    flex-direction:column;
+    width:300px;
+    align-items: center;
+    border:1px solid black;
+    border-radius: 10px;;
+
+
+}
+
+label{
+
+    margin:10px;
+}
+input{
+
+    margin:10px;
+    background: #FFF;
+}
+
+
+img{
+
+    width:300px;
+    height:300Px;
+}

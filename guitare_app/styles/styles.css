@@ -1,0 +1,155 @@
+*{font-family: 'Montserrat', sans-serif;}
+
+body{
+
+    margin:0 0;
+    }
+/*------------------nav----------------------------*/
+.nav{
+
+width:100%;
+height:300px;
+box-shadow: 5px 5px 5px 2Px black;
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+
+#logo {
+
+    width:300px;
+    height:300px;
+}
+#form_connexion{
+
+    display: flex;
+    flex-direction:column;
+    margin-right:200px;
+    align-items: center;
+
+}
+/*--------------little cont from index.user-------------------------*/
+
+
+.little_cont{
+
+    display:flex;
+    flex-direction: column;
+    margin-right:200px;
+    align-items: center;
+}
+
+.little_cont button{
+
+    margin: 10px;
+}
+/*-------classe btn */
+.btn_app{
+
+    border-radius: 20px;
+    width:170px;
+    background-color:#FFF;
+    border:1px solid black;
+    transition : all .5s ease;
+
+}
+.btn_app:hover{
+
+    color:#FFF;
+    background-color: black;
+}
+#btn_submit_connexion{
+
+    margin-top:30px;
+    
+}
+
+#login{
+
+    margin-bottom:10px;
+}
+
+#btn_retour{
+
+    margin-right:200px;
+}
+
+
+/*----------------------mamaflex----------------------------*/
+
+
+#mamaFlex{
+
+    display:flex;
+}
+
+#option_tri{
+
+    width:30%;
+    border-right: 1px solid black;
+    
+
+}
+
+
+#option_tri h2{
+
+    text-align: center;
+}
+#formu{
+    margin-top:100px;
+    display:flex;
+    flex-direction:column;
+}
+
+
+#affichage{
+
+    width:70%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#newFavoris{
+
+    width:300px;
+}
+form a{
+    color:black;
+}
+/*--------vignette guitare ---------------*/
+#guitare{
+
+
+    width : 80%;
+    height : 500px;
+    margin:50px;
+    box-shadow: 5px 5px 5px 2px black;
+    display:flex;
+    flex-direction: column;
+}
+
+#nomGuitare{
+
+    text-align: center;
+}
+
+#container{
+
+    display:flex;
+    align-items: center;
+    height:80%;
+
+}
+.image_guitare{
+
+    width:50%;
+}
+
+#btn-group{
+
+    display:flex;
+    flex-direction: column;
+}
