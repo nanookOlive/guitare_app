@@ -1,4 +1,4 @@
-<center> <img src="http://nanookpandora.com/guitare_app/res/logo_guitare_2.png" width="200px"></center>
+<p style="text-align:center"> <img src="http://nanookpandora.com/guitare_app/res/logo_guitare_2.png" width="200px"></p>
 
 # <center>Guitare_app (*php vanilla*)<center>
 Cette application est un projet de fin d'unité d'enseignement réalisé au CNAM. La consigne était de concevoir et réaliser un site de e-commerce. Pour tester c'est [par ici](https://nanookpandora.com/guitare_app/) :)
