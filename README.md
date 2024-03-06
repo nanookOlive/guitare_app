@@ -1,6 +1,4 @@
-<p style="text-align:center"> <img src="http://nanookpandora.com/guitare_app/res/logo_guitare_2.png" width="200px"></p>
-
-# <center>Guitare_app (*php vanilla*)<center>
+# <center>Guitare_app (*php vanilla-projet étude*)<center>
 Cette application est un projet de fin d'unité d'enseignement réalisé au CNAM. La consigne était de concevoir et réaliser un site de e-commerce. Pour tester c'est [par ici](https://nanookpandora.com/guitare_app/) :)
 Un dossier complet est disponible [ici](https://github.com/nanookOlive/guitare_app/blob/main/Dossier%20nfa21.pdf) qui détaille l'ensemble des fonctionnalités, leur conception et réalisation. 
 
