@@ -1,5 +1,5 @@
 # <center>Guitare_app (*php vanilla-projet étude*)<center>
-Cette application est un projet de fin d'unité d'enseignement réalisé au CNAM. La consigne était de concevoir et réaliser un site de e-commerce. Pour tester c'est [par ici](https://nanookpandora.com/guitare_app/) :)
+Cette application est un projet de fin d'unité d'enseignement faite au CNAM. La consigne était de concevoir et réaliser un site de e-commerce. Pour tester c'est [par ici](https://nanookpandora.com/guitare_app/) :)
 Un dossier complet est disponible [ici](https://github.com/nanookOlive/guitare_app/blob/main/Dossier%20nfa21.pdf) qui détaille l'ensemble des fonctionnalités, leur conception et réalisation. 
 
 
@@ -10,8 +10,6 @@ Un dossier complet est disponible [ici](https://github.com/nanookOlive/guitare_a
 * voir le détail de chaque produit
 * trier les produits selon différents critères
 * afficher les distributeurs d'un produit en particulier sur une carte
-* accès à la collection de transcriptions soit par auteurs soit par titres
-* affiche les transcriptions et permet leur téléchargement au format pdf
 * se créer un compte 
 * se connecter à son profil
 
@@ -33,5 +31,5 @@ Des contraintes dans la conception et la réalisation étaient imposées, ce pro
 * les pages doivent être dynamisées avec l'utilisation de requêtes AJAX 
 * l'utilisateur doit valider son inscription via un mail envoyé automatiquement par l'application
 * avoir une gestion d'erreur
-* un systéme d'authentification
+* un système d'authentification
 * une gestion de la session
